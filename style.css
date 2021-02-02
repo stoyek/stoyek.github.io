@@ -467,6 +467,32 @@ li a:hover {
   color: #0065fc;
 }
 
+.deadlien{
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 20px;
+  width: 70%;
+  background-color: #F2F2F2;
+  font-size: 20px;
+}
+
+.deadlien p{
+  margin: 10px;
+}
+
+.deadlien i{
+  color: #0065fc;
+  font-size: 25px;
+}
+
+.deadlien a{
+  margin: 10px;
+  font-weight: bold;
+}
+
 @media screen and (max-width: 651px) {
   body {
     /* width: 90%; */
