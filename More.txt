@@ -1,0 +1,17 @@
+-- logo research for média qwerry <i class="fas fa-search"></i>
+
+- Problème avec le logo du header. (modif html)
+
+- les cercles ne sont plus rond ?
+
+- Changer une ligne par une autre en html ? pour mettre le logo research
+
+- quel breakpoint ?
+
+- Activity-container -> Modifier tous les nth child en 1 ligne ?
+
+- désactiver les animations ?
+
+-display: none
+
+- cursor pointer
